@@ -1045,3 +1045,14 @@ h4 {
     height: 100%;
     width: auto;
 }
+
+#bloc-7 {
+    padding: 1rem;
+    margin: 4rem;
+    width: auto;
+}
+
+#bloc-7 > .container{
+    padding: 2rem;
+    width: 100%;
+}
