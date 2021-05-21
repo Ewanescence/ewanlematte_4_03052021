@@ -1040,3 +1040,8 @@ h4 {
         text-align: center;
     }
 }
+
+#c_logo {
+    height: 100%;
+    width: auto;
+}
