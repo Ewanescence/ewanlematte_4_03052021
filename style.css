@@ -1062,7 +1062,17 @@ h4 {
 #bloc-7 {
     padding: 1rem;
     margin: 4rem;
+    background-color: rgba(26, 26, 26, 0.75);
     width: auto;
+}
+
+.form-container > h3 {
+    color: white!important;
+}
+
+.form-container > #form_1 > .form-group > label,
+.form-container > p {
+    color: white!important;
 }
 
 #bloc-7 > .container{
@@ -1076,6 +1086,7 @@ a {
 
 a:hover {
     text-decoration: underline!important;
+    color: rgb(243, 151, 108)!important;
 }
 
 p {
@@ -1087,5 +1098,10 @@ p {
 }
 
 .portfolio-thumb {
-    width: 100%;
+    width: 570px;
+    height: auto;
+}
+
+.black {
+    color: black!important;
 }
