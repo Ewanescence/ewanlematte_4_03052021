@@ -1085,3 +1085,7 @@ p {
 .social:hover > span {
     transform: scale(1.15);
 }
+
+.portfolio-thumb {
+    width: 100%;
+}
