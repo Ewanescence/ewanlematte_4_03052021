@@ -1105,3 +1105,22 @@ p {
 .black {
     color: black!important;
 }
+
+.social_column {
+    display: flex;
+    flex-direction: column;
+    color: white!important;
+    row-gap: 5px;
+}
+
+.social_column:hover {
+    color: black!important;
+}
+
+.social > .icon-md {
+    color: white!important;
+}
+
+.social:hover > .icon-md {
+    color: black!important;
+}
