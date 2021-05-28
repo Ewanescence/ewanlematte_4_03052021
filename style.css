@@ -1109,18 +1109,18 @@ p {
 .social_column {
     display: flex;
     flex-direction: column;
-    color: white!important;
+    color: black!important;
     row-gap: 5px;
 }
 
 .social_column:hover {
-    color: black!important;
-}
-
-.social > .icon-md {
     color: white!important;
 }
 
-.social:hover > .icon-md {
+.social > .icon-md {
     color: black!important;
+}
+
+.social:hover > .icon-md {
+    color: white!important;
 }
