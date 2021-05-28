@@ -699,6 +699,10 @@ p {
     font-weight: 700;
 }
 
+.cta-hero:hover {
+    text-decoration: underline;
+}
+
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
@@ -1065,4 +1069,8 @@ a:hover {
 
 p {
     font-size: 14px;
+}
+
+.social:hover > span {
+    transform: scale(1.15);
 }
